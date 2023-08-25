@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["插件推荐","常用插件","obsidian"],"title":"obsidian插件推荐","permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["插件推荐","常用插件","obsidian"],"title":"obsidian插件推荐","permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件推荐/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## 前言
