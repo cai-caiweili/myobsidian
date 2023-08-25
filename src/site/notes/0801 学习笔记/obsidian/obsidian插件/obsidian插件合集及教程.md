@@ -13,7 +13,7 @@
 |[[DataLoom\|DataLoom]]|类数据库表格|🌟 |
 |[[Dataview\|Dataview]]|代码支持 |🌟|
 | [[Day Planner\|Day Planner]]|日程表|🌟|
-|[[Digital Garden\|Digital Garden]]|obsidian发布|  |
+|[[0801 学习笔记/obsidian/obsidian插件/Digital Garden\|Digital Garden]]|obsidian发布|  |
 |[[EasyTyping\|EasyTyping]] |增强文字输入 |🌟|
 |[[Editing Toolbar\|Editing Toolbar]]|文章工具栏 |🌟|
 |[[Emoji Toolbar\|Emoji Toolbar]]|插入表情图标|🌟|
