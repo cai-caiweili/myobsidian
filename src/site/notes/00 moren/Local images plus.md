@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"Local images plus","permalink":"/00 moren/Local images plus/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["Local images plus","插件","obsidian插件","本地化图片"],"title":"Local images plus","permalink":"/00 moren/Local images plus/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## 用法
