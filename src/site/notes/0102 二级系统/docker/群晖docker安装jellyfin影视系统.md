@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0102 二级系统/docker/群晖docker安装jellyfin影视系统/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0102/docker/docker-jellyfin/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-08-10T17:13:06.058+08:00","updated":"2023-08-25T08:55:28.775+08:00"}
 ---
 
 
