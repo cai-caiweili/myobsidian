@@ -12,8 +12,7 @@
 |[[Commander\|Commander]]|添加命令按钮 |🌟|
 |[[DataLoom\|DataLoom]]|类数据库表格|🌟 |
 |[[Dataview\|Dataview]]|代码支持 |🌟|
-|[[Dataview\|Dataview]]|代码支持 |🌟|
-| [[Day Planner\|Day Planner]] |日程表|🌟|
+| [[Day Planner\|Day Planner]]|日程表|🌟|
 |[[Digital Garden\|Digital Garden]]|obsidian发布|  |
 |[[EasyTyping\|EasyTyping]] |增强文字输入 |🌟|
 |[[Editing Toolbar\|Editing Toolbar]]|文章工具栏 |🌟|
