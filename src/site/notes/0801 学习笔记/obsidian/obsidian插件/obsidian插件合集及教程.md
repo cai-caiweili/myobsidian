@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["obsidian插件","自用插件","obsidian"],"title":"obsidian插件合集及教程导航","permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["obsidian插件","自用插件","obsidian"],"title":"obsidian插件合集及教程导航","permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## 插件列表
