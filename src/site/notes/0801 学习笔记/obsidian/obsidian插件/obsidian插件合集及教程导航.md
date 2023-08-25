@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程导航/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["obsidian插件","自用插件","obsidian"],"title":"obsidian插件合集及教程导航","permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程导航/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-#obsidian插件 #自用插件 #obsidian 
 ## 待编辑
 Awesome Brain Manager
 Banners
@@ -23,9 +22,9 @@ Tasks
 ## 插件列表
 |序 <br> 号  |标题     |注释|标签        |等级       |
 |---|---|---|---|---|
-|1|[[00 moren/Annotator\|Annotator]]|pdf 超链接注释|#pdf超链接 #注释 |🌟 |
+|1|[[Annotator\|Annotator]]|pdf 超链接注释|pdf超链接、注释|🌟 |
 |2 | [[Auto Link Title\|Auto Link Title]] |链接自动改名 |  |🌟 |
-|3|[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]] |文件排序文件夹排序|#文件列表排序|4🌟 |  |
+|3|[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]] |文件排序文件夹排序|文件列表排序|4🌟 |  |
 |  |[[Calendar\|Calendar]]|日历插件 |  |🌟|
 | |[[Commander\|Commander]] |添加命令按钮|  |🌟|
 | |[[DataLoom\|DataLoom]]|类数据库表格|  |🌟 |
@@ -40,7 +39,7 @@ Tasks
 |  |[[File Tree Alternative Plugin\|File Tree Alternative Plugin]]|文件树文件数插件|  |🌟|
 |  |[[Hover Editor\|Hover Editor]]|窗口悬浮|  |🌟|
 |  | [[Linter\|Linter]] |yaml 工具|  |🌟 |
-|  |[[00 moren/Local images plus\|Local images plus]]|自动保存附件链接并切换|#链接附件 #附件保存|4🌟|
+|  |[[00 moren/Local images plus\|Local images plus]]|自动保存附件链接并切换|链接附件、附件保存|4🌟|
 |  |[[Memos\|Memos]] |灵感记录 |  |🌟|
 |  |[[Mousewheellmage\|Mousewheellmage]]|调整图片大小|  |🌟 |
 |  |[[Multi-Column Markdown\|Multi-Column Markdown]]|可编辑数据库（基于文件夹）/可视化 Dataview|  |4🌟|
@@ -52,7 +51,7 @@ Tasks
 |  |[[Paste image rename\|Paste image rename]]|附件重命名|  |🌟|
 |  |[[Paste URI Into Selection\|Paste URI Into Selection]]|快速给选中的文本上链接|  |🌟|
 |  |[[projects\|projects]]|  |  |🌟 |
-|  |[[Plugin Groups\|Plugin Groups]]|给插件分组的插件|#插件分组|3🌟|
+|  |[[Plugin Groups\|Plugin Groups]]|给插件分组的插件|插件分组|3🌟|
 |  |[[QuickAdd\|QuickAdd]]|强大的快速记录与宏工具|  |5🌟 |
 |  |[[Recent Files\|Recent Files]]|查看最近打开文件|  |🌟 |
 |  |[[Remotely Save\|Remotely Save]]|各端同步，配合网盘和webdev玩法很多。|  |🌟|
