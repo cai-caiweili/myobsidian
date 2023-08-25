@@ -52,7 +52,8 @@ Tasks
 |  |[[Pandoc\|Pandoc]]|导出word|  |🌟|
 |  |[[Paste image rename\|Paste image rename]]|附件重命名|  |🌟|
 |  |[[Paste URI Into Selection\|Paste URI Into Selection]]|快速给选中的文本上链接|  |🌟|
-|  |[[projects\|projects]]|  |  |🌟|
+|  |[[projects\|projects]]|  |  |🌟 |
+|  |[[Plugin Groups\|Plugin Groups]]|给插件分组的插件|#插件分组|3🌟|
 |  |[[QuickAdd\|QuickAdd]]|强大的快速记录与宏工具|  |5🌟 |
 |  |[[Recent Files\|Recent Files]]|查看最近打开文件|  |🌟 |
 |  |[[Remotely Save\|Remotely Save]]|各端同步，配合网盘和webdev玩法很多。|  |🌟|
