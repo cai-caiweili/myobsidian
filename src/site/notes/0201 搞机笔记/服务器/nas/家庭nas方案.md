@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["家庭nas","方案","设备清单"],"title":"家庭nas方案","permalink":"/0201//nas/nas/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["家庭nas","方案","设备清单"],"title":"家庭nas方案","permalink":"/0201 搞机笔记/服务器/nas/家庭nas方案/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
