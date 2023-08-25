@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":"电脑主板","tags":["华擎 bios itx"],"title":"华擎 J3455-ITX 升级 BIOS 固件及设置","permalink":"/0201 搞机笔记/服务器/nas/华擎 J3455-ITX 升级 BIOS 固件及设置/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":"电脑主板","tags":["华擎 bios itx"],"title":"华擎 J3455-ITX 升级 BIOS 固件及设置","permalink":"/0201//nas/j3455-itx-bios/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
