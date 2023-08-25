@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"obsidian字体更换","permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"obsidian字体更换","permalink":"/0801 学习笔记/obsidian/obsidian其他教程/obsidian字体更换/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## obsidian 字体更换
