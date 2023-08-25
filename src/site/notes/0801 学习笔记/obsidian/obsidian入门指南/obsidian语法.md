@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"obsidian语法","permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"obsidian语法","permalink":"/0801 学习笔记/obsidian/obsidian入门指南/obsidian语法/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
