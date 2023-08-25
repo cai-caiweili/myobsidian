@@ -8,10 +8,10 @@
 |[[Annotator\|Annotator]]|pdf 超链接注释 |🌟 |
 | [[Auto Link Title\|Auto Link Title]]|链接自动改名 |🌟 |
 |[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]]|文件排序文件夹排序 |4🌟|  |
-|[[00 moren/库/Buttons\|Buttons]]|给笔记加按钮|3🌟|
-|[[Calendar\|Calendar]] |日历插件 |🌟|
-|[[Commander\|Commander]]|添加命令按钮 |🌟|
-|[[DataLoom\|DataLoom]]|类数据库表格|🌟 |
+|[[00 moren/库/Buttons\|Buttons]]|给笔记加按钮 |3🌟|
+|[[Calendar\|Calendar]] |日历插件|🌟|
+|[[Commander\|Commander]]|添加命令按钮|🌟|
+|[[DataLoom\|DataLoom]]|类数据库表格 |🌟 |
 |[[Dataview\|Dataview]]|代码支持 |🌟|
 | [[Day Planner\|Day Planner]]|日程表|🌟|
 |[[0801 学习笔记/obsidian/obsidian插件/Digital Garden\|Digital Garden]]|obsidian发布|  |
