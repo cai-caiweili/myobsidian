@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-08-23T14:06:33.000+08:00","updated":"2023-08-25T15:04:55.741+08:00"}
+{"dg-publish":true,"permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程导航/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
