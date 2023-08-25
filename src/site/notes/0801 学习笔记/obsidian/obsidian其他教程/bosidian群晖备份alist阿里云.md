@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["obsidian","备份","alist","阿里云"],"title":"bosidian群晖备份alist阿里云","permalink":"/0801/obsidian/obsidian/bosidian-alist/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["obsidian","备份","alist","阿里云"],"title":"bosidian群晖备份alist阿里云","permalink":"/0801 学习笔记/obsidian/obsidian其他教程/bosidian群晖备份alist阿里云/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
