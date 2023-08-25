@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"Todoist管理","permalink":"//todoist/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"Todoist管理","permalink":"/置顶/Todoist管理/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 <div class="alt 3"style="
