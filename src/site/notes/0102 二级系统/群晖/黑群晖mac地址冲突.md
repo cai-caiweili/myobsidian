@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["黑群晖","群晖问题","mac地址冲突"],"title":"黑群晖mac地址冲突","permalink":"/0102 二级系统/群晖/黑群晖mac地址冲突/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["黑群晖","群晖问题","mac地址冲突"],"title":"黑群晖mac地址冲突","permalink":"/0102//mac/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### 问题起因
