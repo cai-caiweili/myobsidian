@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程导航/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-
 #obsidian插件 #自用插件 #obsidian 
 ## 待编辑
 Awesome Brain Manager
@@ -44,7 +43,7 @@ Tasks
 |  |[[00 moren/Local images plus\|Local images plus]]|自动保存附件链接并切换|#链接附件 #附件保存|4🌟|
 |  |[[Memos\|Memos]] |灵感记录 |  |🌟|
 |  |[[Mousewheellmage\|Mousewheellmage]]|调整图片大小|  |🌟 |
-|  |[[Multi-Column Markdown\|Multi-Column Markdown]]|  |  |🌟|
+|  |[[Multi-Column Markdown\|Multi-Column Markdown]]|可编辑数据库（基于文件夹）/可视化 Dataview|  |4🌟|
 |  |[[MySnippets\|MySnippets]]|状态栏管理 csS 片段|  |🌟|
 |  |[[Note Refactor\|Note Refactor]]|根据标题层级创建笔记|  |🌟|
 |  |[[Obsidian Floating TOC\|Obsidian Floating TOC]]|浮动目录|  |🌟|
