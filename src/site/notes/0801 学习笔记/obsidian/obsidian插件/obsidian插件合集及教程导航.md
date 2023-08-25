@@ -22,14 +22,14 @@ Surfing
 Tasks
 
 ## 插件列表
-|序 <br> 号        |标题    |注释  |标签        |等级    |
+|序 <br> 号  |标题     |注释|标签        |等级       |
 |---|---|---|---|---|
-|  |[[00 moren/Annotator\|Annotator]]|pdf 超链接注释|#pdf超链接 #注释 |🌟|
-|  | [[Auto Link Title\|Auto Link Title]] |链接自动改名 |  |🌟 |
-|  |[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]] |文件排序文件夹排序|#文件列表排序|4🌟|  |
-|  |[[Calendar\|Calendar]]|日历插件 |  |🌟 |
+|1|[[00 moren/Annotator\|Annotator]]|pdf 超链接注释|#pdf超链接 #注释 |🌟 |
+|2 | [[Auto Link Title\|Auto Link Title]] |链接自动改名 |  |🌟 |
+|3|[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]] |文件排序文件夹排序|#文件列表排序|4🌟 |  |
+|  |[[Calendar\|Calendar]]|日历插件 |  |🌟|
 | |[[Commander\|Commander]] |添加命令按钮|  |🌟|
-| |[[DataLoom\|DataLoom]]|类数据库表格|  |🌟|
+| |[[DataLoom\|DataLoom]]|类数据库表格|  |🌟 |
 |  |[[Dataview\|Dataview]]|代码支持 |  |🌟|
 |  |[[Dataview\|Dataview]]|代码支持 |  |🌟|
 |  |[[Day Planner\|Day Planner]] |日程表|  |🌟|
