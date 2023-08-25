@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["obsidian附件","图片"],"title":"obsidian附件图片方案","permalink":"/0801 学习笔记/obsidian/obsidian其他教程/obsidian附件图片方案/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["obsidian附件","图片"],"title":"obsidian附件图片方案","permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 序章：obsidian的附件图片存储方案一直是很多人纠结的地方，所谓鱼和熊掌不可兼得，想要加载速度，只能本地，想要远程访问，就需要有文件直链。
