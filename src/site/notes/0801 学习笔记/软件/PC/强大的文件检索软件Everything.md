@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"强大的文件检索软件Everything","permalink":"/0801 学习笔记/软件/PC/强大的文件检索软件Everything/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"强大的文件检索软件Everything","permalink":"/0801//pc/everything/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 序章：为了高效工作而生的软件，我是真的安利了这款软件。作为电脑重度使用者，只要你用了，基本就戒不掉的软件。
