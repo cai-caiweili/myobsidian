@@ -24,7 +24,7 @@
 | [[Hover Editor\|Hover Editor]] |窗口悬浮 |🌟|
 |[[Hotkeys for specific files\|Hotkeys for specific files]]|给笔记添加快捷键 |3🌟 |
 | [[Linter\|Linter]]|yaml 工具 |🌟 |
-|[[00 moren/Local images plus\|Local images plus]]|自动保存附件链接并切换|4🌟|
+|[[0801 学习笔记/obsidian/obsidian插件/Local images plus\|Local images plus]]|自动保存附件链接并切换|4🌟|
 |[[Memos\|Memos]] |灵感记录 |🌟|
 |[[Mousewheellmage\|Mousewheellmage]]|调整图片大小 |🌟 |
 |[[Multi-Column Markdown\|Multi-Column Markdown]] |可编辑数据库（基于文件夹）/可视化 Dataview |4🌟|
