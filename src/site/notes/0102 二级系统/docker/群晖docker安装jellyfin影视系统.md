@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"群晖docker安装jellyfin影视系统","permalink":"/0102 二级系统/docker/群晖docker安装jellyfin影视系统/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"群晖docker安装jellyfin影视系统","permalink":"/0102/docker/docker-jellyfin/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
