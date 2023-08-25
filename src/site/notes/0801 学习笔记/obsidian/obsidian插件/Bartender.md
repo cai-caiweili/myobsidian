@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"Bartender","permalink":"/0801/obsidian/obsidian/bartender/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"Bartender","permalink":"/0801 学习笔记/obsidian/obsidian插件/Bartender/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## 前言
