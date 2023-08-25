@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0801/obsidian/obsidian/obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-08-23T14:06:33.000+08:00","updated":"2023-08-25T14:42:04.427+08:00"}
+{"dg-publish":true,"permalink":"/0801/obsidian/obsidian/obsidian/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-08-23T14:06:33.000+08:00","updated":"2023-08-25T15:04:55.741+08:00"}
 ---
 
 
