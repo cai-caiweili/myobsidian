@@ -7,7 +7,8 @@
 |---|---|---|
 |[[Annotator\|Annotator]]|pdf 超链接注释 |🌟 |
 | [[Auto Link Title\|Auto Link Title]]|链接自动改名 |🌟 |
-|[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]] |文件排序文件夹排序 |4🌟 |  |
+|[[0801 学习笔记/obsidian/obsidian插件/Bartender\|Bartender]]|文件排序文件夹排序 |4🌟|  |
+|[[00 moren/库/Buttons\|Buttons]]|给笔记加按钮|3🌟|
 |[[Calendar\|Calendar]] |日历插件 |🌟|
 |[[Commander\|Commander]]|添加命令按钮 |🌟|
 |[[DataLoom\|DataLoom]]|类数据库表格|🌟 |
@@ -15,20 +16,21 @@
 | [[Day Planner\|Day Planner]]|日程表|🌟|
 |[[0801 学习笔记/obsidian/obsidian插件/Digital Garden\|Digital Garden]]|obsidian发布|  |
 |[[EasyTyping\|EasyTyping]] |增强文字输入 |🌟|
-|[[Editing Toolbar\|Editing Toolbar]]|文章工具栏 |🌟|
+|[[Editing Toolbar\|Editing Toolbar]] |文章工具栏 |🌟|
 |[[Emoji Toolbar\|Emoji Toolbar]]|插入表情图标|🌟|
 |[[File Cleaner\|File Cleaner]]|清理没用的附件|🌟|
 |[[File Explorer Note Count\|File Explorer Note Count]]|显示文件夹文章数量|🌟|
 |[[File Tree Alternative Plugin\|File Tree Alternative Plugin]]|文件树文件数插件|🌟|
-|[[Hover Editor\|Hover Editor]]|窗口悬浮|🌟|
-| [[Linter\|Linter]] |yaml 工具|🌟 |
+| [[Hover Editor\|Hover Editor]] |窗口悬浮 |🌟|
+|[[Hotkeys for specific files\|Hotkeys for specific files]]|给笔记添加快捷键 |3🌟 |
+| [[Linter\|Linter]]|yaml 工具 |🌟 |
 |[[00 moren/Local images plus\|Local images plus]]|自动保存附件链接并切换|4🌟|
 |[[Memos\|Memos]] |灵感记录 |🌟|
-|[[Mousewheellmage\|Mousewheellmage]]|调整图片大小|🌟 |
-|[[Multi-Column Markdown\|Multi-Column Markdown]]|可编辑数据库（基于文件夹）/可视化 Dataview|4🌟|
+|[[Mousewheellmage\|Mousewheellmage]]|调整图片大小 |🌟 |
+|[[Multi-Column Markdown\|Multi-Column Markdown]] |可编辑数据库（基于文件夹）/可视化 Dataview |4🌟|
 |[[MySnippets\|MySnippets]]|状态栏管理 csS 片段|🌟|
-|[[Note Refactor\|Note Refactor]]|根据标题层级创建笔记|🌟|
-|[[Obsidian Floating TOC\|Obsidian Floating TOC]]|浮动目录|🌟|
+|[[Note Refactor\|Note Refactor]]|根据标题层级创建笔记 |🌟|
+|[[Obsidian Floating TOC\|Obsidian Floating TOC]]|浮动目录 |🌟|
 |[[Obsidian-Column\|Obsidian-Column]]|笔记分栏|🌟|
 |[[Pandoc\|Pandoc]]|导出word|🌟|
 |[[Paste image rename\|Paste image rename]]|附件重命名|🌟|
