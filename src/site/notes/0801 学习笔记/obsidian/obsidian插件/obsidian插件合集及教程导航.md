@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0801/obsidian/obsidian/obsidian/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"permalink":"/0801 学习笔记/obsidian/obsidian插件/obsidian插件合集及教程导航/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #obsidian插件 #自用插件 #obsidian 
