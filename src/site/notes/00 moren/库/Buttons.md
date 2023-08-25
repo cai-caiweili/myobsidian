@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"title":"Buttons","permalink":"/00-moren//buttons/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":null,"title":"Buttons","permalink":"/00 moren/库/Buttons/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ```button
