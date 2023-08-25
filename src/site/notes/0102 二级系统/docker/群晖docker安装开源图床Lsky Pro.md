@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":["图床","兰空","docker"],"title":"群晖docker安装开源图床Lsky Pro","permalink":"/0102/docker/docker-lsky-pro/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"aliases":null,"tags":["图床","兰空","docker"],"title":"群晖docker安装开源图床Lsky Pro","permalink":"/0102 二级系统/docker/群晖docker安装开源图床Lsky Pro/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
