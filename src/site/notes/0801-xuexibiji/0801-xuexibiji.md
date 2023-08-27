@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"cssclass":"kanban gridlist noyaml","tag":"moc","obsidianUIMode":"preview","permalink":"/0801-xuexibiji/0801-xuexibiji/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"cssclass":"kanban gridlist noyaml","tag":"moc","obsidianUIMode":"preview","permalink":"/0801-xuexibiji/0801-xuexibiji/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
  
 `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
