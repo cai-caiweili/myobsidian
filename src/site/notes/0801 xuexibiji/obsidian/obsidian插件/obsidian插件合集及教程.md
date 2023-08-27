@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"aliases":null,"tags":["obsidian插件","自用插件","obsidian","gardenEntry"],"title":"obsidian插件合集及教程导航","permalink":"/0801 xuexibiji/obsidian/obsidian插件/obsidian插件合集及教程/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"aliases":null,"tags":["obsidian插件","自用插件","obsidian","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"title":"obsidian插件合集及教程导航","permalink":"/0801 xuexibiji/obsidian/obsidian插件/obsidian插件合集及教程/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## 插件列表
