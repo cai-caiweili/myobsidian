@@ -8,13 +8,13 @@
 
 从版本 0.15.0 开始，该插件还可以处理所有附件（文件/音频记录的屏幕截图/拖放）。
 
-![[00 fujian/b9171cf35ded9b38ea518fbaf8ac8183_MD5.gif\|00 fujian/b9171cf35ded9b38ea518fbaf8ac8183_MD5.gif]]
+![00-fujian/b9171cf35ded9b38ea518fbaf8ac8183_MD5.gif](/img/user/00-fujian/b9171cf35ded9b38ea518fbaf8ac8183_MD5.gif)
 
 在命令/菜单模式或自动模式下使用它（在设置中切换“自动处理”选项）：
 
-![[00 fujian/3967b5de94081e1b3933000a210ae633_MD5.png\|00 fujian/3967b5de94081e1b3933000a210ae633_MD5.png]]
+![00-fujian/3967b5de94081e1b3933000a210ae633_MD5.png](/img/user/00-fujian/3967b5de94081e1b3933000a210ae633_MD5.png)
 
-![[00 fujian/b94d1aa2191541a1a5de5d9a999de6a1_MD5.png\|00 fujian/b94d1aa2191541a1a5de5d9a999de6a1_MD5.png]]
+![00-fujian/b94d1aa2191541a1a5de5d9a999de6a1_MD5.png](/img/user/00-fujian/b94d1aa2191541a1a5de5d9a999de6a1_MD5.png)
 
 `Download all media files (Plugin folder)`- 您的活动页面将被处理，附件将保存在插件设置中预先配置的文件夹中。
 
@@ -36,7 +36,7 @@
 
 文件将被复制或下载到您的附件文件夹中。
 
-![[00 fujian/c5cb59490674c5ccb3fd781b145637eb_MD5.gif\|00 fujian/c5cb59490674c5ccb3fd781b145637eb_MD5.gif]]
+![00-fujian/c5cb59490674c5ccb3fd781b145637eb_MD5.gif](/img/user/00-fujian/c5cb59490674c5ccb3fd781b145637eb_MD5.gif)
 
 **注意：我不建议使用此插件来复制非常大的文件，因为尚未实现从磁盘读取缓冲。**
 
