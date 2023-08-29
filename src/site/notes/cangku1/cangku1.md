@@ -1,0 +1,153 @@
+---
+{"dg-publish":true,"dg-home":true,"cssclass":"kanban gridlist noyaml","tag":"moc","obsidianUIMode":"preview","permalink":"/cangku1/cangku1/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+---
+ `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
+
+- **[[cangku1/cangku1\|cangku1]]**
+	- **20-Diary**
+		- [[cangku1/20-Diary/2021年12月规划\|2021年12月规划]]
+		- [[cangku1/20-Diary/2022-W10\|2022-W10]]
+		- [[cangku1/20-Diary/案例进展情况\|案例进展情况]]
+		- [[cangku1/20-Diary/当月笔记串联\|当月笔记串联]]
+		- [[cangku1/20-Diary/任务看板\|任务看板]]
+		- [[cangku1/20-Diary/日记统计\|日记统计]]
+		- [[cangku1/20-Diary/delete\|delete]]
+		- [[cangku1/20-Diary/memos模板\|memos模板]]
+		- [[cangku1/20-Diary/query\|query]]
+	- **40-Booknote**
+		- [[cangku1/40-Booknote/ceshi\|ceshi]]
+	- **50-yingshi**
+		- [[cangku1/50-yingshi/《笔醒山河》\|《笔醒山河》]]
+		- [[cangku1/50-yingshi/《从零开始的女性主义》\|《从零开始的女性主义》]]
+		- [[cangku1/50-yingshi/《大话数据结构》\|《大话数据结构》]]
+		- [[cangku1/50-yingshi/《理解海德格尔》\|《理解海德格尔》]]
+		- [[cangku1/50-yingshi/《镰刀与城市》\|《镰刀与城市》]]
+		- [[cangku1/50-yingshi/《如何阅读尼采》\|《如何阅读尼采》]]
+		- [[cangku1/50-yingshi/《世界是如何思考的》\|《世界是如何思考的》]]
+		- [[cangku1/50-yingshi/《水の環境史 _ 「京の名水」はなぜ失われたか 》\|《水の環境史 _ 「京の名水」はなぜ失われたか 》]]
+		- [[cangku1/50-yingshi/《苏联解体亲历记》\|《苏联解体亲历记》]]
+		- [[cangku1/50-yingshi/《微习惯》\|《微习惯》]]
+		- [[cangku1/50-yingshi/《新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版_│▌》\|《新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版_│▌》]]
+		- [[cangku1/50-yingshi/《熊会滑雪吗？》\|《熊会滑雪吗？》]]
+		- [[cangku1/50-yingshi/《知识生产与传播》\|《知识生产与传播》]]
+		- [[cangku1/50-yingshi/《Murder @ Maggodycom _ An Arly Hanks Mystery》\|《Murder @ Maggodycom _ An Arly Hanks Mystery》]]
+		- [[cangku1/50-yingshi/《Rust for Rustaceans_ Idiomatic Programming for Experienced Developers》\|《Rust for Rustaceans_ Idiomatic Programming for Experienced Developers》]]
+		- **⭐️**
+			- [[cangku1/50-yingshi/⭐️/扎克·施奈德版正义联盟 Zack Snyder's Justice League\|扎克·施奈德版正义联盟 Zack Snyder's Justice League]]
+		- [[cangku1/50-yingshi/🎶影音数据库\|🎶影音数据库]]
+		- [[cangku1/50-yingshi/30-Reading\|30-Reading]]
+		- [[cangku1/50-yingshi/霸王别姬\|霸王别姬]]
+		- [[cangku1/50-yingshi/白蛇传·情\|白蛇传·情]]
+		- [[cangku1/50-yingshi/芬奇 Finch\|芬奇 Finch]]
+		- [[cangku1/50-yingshi/孤味\|孤味]]
+		- [[cangku1/50-yingshi/花束般的恋爱 花束みたいな恋をした\|花束般的恋爱 花束みたいな恋をした]]
+		- [[cangku1/50-yingshi/假面骑士：超越世代 仮面ライダー ビヨンド・ジェネレーションズ\|假面骑士：超越世代 仮面ライダー ビヨンド・ジェネレーションズ]]
+		- [[cangku1/50-yingshi/困在时间里的父亲 The Father\|困在时间里的父亲 The Father]]
+		- [[cangku1/50-yingshi/明朝那些事儿（全集）\|明朝那些事儿（全集）]]
+		- [[cangku1/50-yingshi/你好，李焕英\|你好，李焕英]]
+		- [[cangku1/50-yingshi/让子弹飞（本地封面图片测试）\|让子弹飞（本地封面图片测试）]]
+		- [[cangku1/50-yingshi/认知觉醒：开启自我改变的原动力\|认知觉醒：开启自我改变的原动力]]
+		- [[cangku1/50-yingshi/三体\|三体]]
+		- [[cangku1/50-yingshi/三体（全集）\|三体（全集）]]
+		- [[cangku1/50-yingshi/心灵奇旅 Soul\|心灵奇旅 Soul]]
+		- [[cangku1/50-yingshi/星际穿越 Interstellar\|星际穿越 Interstellar]]
+		- [[cangku1/50-yingshi/雄狮少年\|雄狮少年]]
+		- [[cangku1/50-yingshi/悬崖之上\|悬崖之上]]
+	- **0101-Linux**
+		- **周边**
+			- [[cangku1/0101-Linux/周边/linux命令\|linux命令]]
+		- **Centos**
+		- **Debian**
+		- **Ubuntu**
+	- **0102-erjixitong**
+		- **群晖**
+			- [[cangku1/0102-erjixitong/群晖/黑群晖7.1物理机和虚拟机安装\|黑群晖7.1物理机和虚拟机安装]]
+			- [[cangku1/0102-erjixitong/群晖/黑群晖忘记密码修复\|黑群晖忘记密码修复]]
+			- [[cangku1/0102-erjixitong/群晖/黑群晖洗白和半洗白\|黑群晖洗白和半洗白]]
+			- [[cangku1/0102-erjixitong/群晖/黑群晖mac地址冲突\|黑群晖mac地址冲突]]
+		- **软路由**
+		- **docker**
+			- [[cangku1/0102-erjixitong/docker/群晖docker安装开源图床Lsky Pro\|群晖docker安装开源图床Lsky Pro]]
+			- [[cangku1/0102-erjixitong/docker/群晖docker安装jellyfin影视系统\|群晖docker安装jellyfin影视系统]]
+			- [[cangku1/0102-erjixitong/docker/群晖docker安装Vaultwarden或者Bitwarden密码管理\|群晖docker安装Vaultwarden或者Bitwarden密码管理]]
+		- **Esxi**
+	- **0103-biancheng**
+		- **go**
+		- **java**
+		- **php**
+	- **0201-gaojibiji**
+		- **服务器**
+			- **戴尔**
+				- [[cangku1/0201-gaojibiji/服务器/戴尔/第一台戴尔服务器\|第一台戴尔服务器]]
+			- **nas**
+				- [[cangku1/0201-gaojibiji/服务器/nas/华擎 J3455-ITX 升级 BIOS 固件及设置\|华擎 J3455-ITX 升级 BIOS 固件及设置]]
+				- [[cangku1/0201-gaojibiji/服务器/nas/家庭nas方案\|家庭nas方案]]
+		- **光猫**
+			- **联通光猫**
+				- [[cangku1/0201-gaojibiji/光猫/联通光猫/联通光猫超级密码获取\|联通光猫超级密码获取]]
+				- [[cangku1/0201-gaojibiji/光猫/联通光猫/联通光猫修改桥接\|联通光猫修改桥接]]
+		- **手机**
+	- **0801-xuexibiji**
+		- **软件**
+			- **手机**
+				- [[cangku1/0801-xuexibiji/软件/手机/今日水印相机\|今日水印相机]]
+				- [[cangku1/0801-xuexibiji/软件/手机/手机软件导航\|手机软件导航]]
+			- **PC**
+				- [[cangku1/0801-xuexibiji/软件/PC/强大的文件检索软件Everything\|强大的文件检索软件Everything]]
+				- [[cangku1/0801-xuexibiji/软件/PC/PC软件导航\|PC软件导航]]
+		- **obsidian**
+			- **obsidian插件**
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/Bartender\|Bartender]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/Digital Garden\|Digital Garden]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/Local images plus\|Local images plus]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/obsidian插件导航\|obsidian插件导航]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/obsidian插件合集及教程\|obsidian插件合集及教程]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian插件/obsidian插件推荐\|obsidian插件推荐]]
+			- **[[cangku1/0801-xuexibiji/obsidian/obsidian其他教程/obsidian其他教程\|obsidian其他教程]]**
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian其他教程/bosidian群晖备份alist阿里云\|bosidian群晖备份alist阿里云]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian其他教程/obsidian附件图片方案\|obsidian附件图片方案]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian其他教程/obsidian字体更换\|obsidian字体更换]]
+			- **obsidian入门指南**
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian入门指南/obsidian入门指南导航\|obsidian入门指南导航]]
+				- [[cangku1/0801-xuexibiji/obsidian/obsidian入门指南/obsidian语法\|obsidian语法]]
+	- **主题美化**
+		- **chorbs美化库**
+			- [[cangku1/主题美化/chorbs美化库/测试文章\|测试文章]]
+			- **精选壁纸**
+				- [[cangku1/主题美化/chorbs美化库/精选壁纸/场景\|场景]]
+				- [[cangku1/主题美化/chorbs美化库/精选壁纸/动漫\|动漫]]
+				- [[cangku1/主题美化/chorbs美化库/精选壁纸/风景\|风景]]
+				- [[cangku1/主题美化/chorbs美化库/精选壁纸/极简\|极简]]
+				- [[cangku1/主题美化/chorbs美化库/精选壁纸/童话绘本风\|童话绘本风]]
+			- [[cangku1/主题美化/chorbs美化库/自制-浅色\|自制-浅色]]
+			- [[cangku1/主题美化/chorbs美化库/自制-深色\|自制-深色]]
+			- [[cangku1/主题美化/chorbs美化库/AnuPpuccinMD元素设置对照\|AnuPpuccinMD元素设置对照]]
+			- **Attachment**
+				- [[浅&深-小岛.json]]
+				- [[浅色-粉.json]]
+				- [[浅色-粉.png]]
+				- [[浅色-小岛白天.png]]
+				- [[深色-鬼灭之刃.json]]
+				- [[深色-鬼灭之刃.png]]
+				- [[深色-林间小屋.json]]
+				- [[深色-三棱镜.json]]
+				- [[深色-三棱镜.png]]
+				- [[深色-书房.json]]
+				- [[深色-书房.png]]
+				- [[深色-树林.json]]
+				- [[深色-树林.png]]
+				- [[深色-小岛夜晚.png]]
+				- [[深色-小猫.json]]
+				- [[深色-星空.json]]
+				- [[深色-星空.png]]
+				- [[Everforest.json]]
+				- [[ziyong.json]]
+		- **Topaz示例库**
+	- **topaz**
+		- **[[cangku1/topaz/00-Tips/00-Tips\|00-Tips]]**
+		- **[[cangku1/topaz/10-Help/10-Help\|10-Help]]**
+		- **[[cangku1/topaz/50-Inbox\|50-Inbox]]**
+		- [[cangku1/topaz/50-Inbox\|50-Inbox]]
+		- **[[cangku1/topaz/60-Canvas/60-Canvas\|60-Canvas]]**
+		- **[[cangku1/topaz/77-Example/77-Example\|77-Example]]**
+
